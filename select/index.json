@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "LOVEずっきゅん",
+  "base_artist": "相対性理論",
+  "createdAt": "2025-12-20T15:02:41.582207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVEずっきゅん",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/01_LOVEずっきゅん_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVEずっきゅん",
+      "artist": "相対性理論",
+      "has_synced": true,
+      "path": "select/02_LOVEずっきゅん_相対性理論.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVEずっきゅん (Live)",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/03_LOVEずっきゅん_(Live)_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVEずっきゅん",
+      "artist": "相対性理論",
+      "has_synced": false,
+      "path": "select/pl_01_LOVEずっきゅん_相対性理論.txt"
+    }
+  ]
+}
