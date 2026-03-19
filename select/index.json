@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "LOVEずっきゅん",
   "base_artist": "相対性理論",
-  "createdAt": "2025-12-20T15:02:41.582207Z",
+  "createdAt": "2026-03-19T16:31:48.678101Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "相対性理論",
       "has_synced": false,
       "path": "select/pl_01_LOVEずっきゅん_相対性理論.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "LOVEずっきゅん",
+      "artist": "相対性理論",
+      "has_synced": false,
+      "path": "select/localdb_01_LOVEずっきゅん_相対性理論.txt",
+      "repo_name": "nFG4oQE1Et8"
     }
   ]
 }
